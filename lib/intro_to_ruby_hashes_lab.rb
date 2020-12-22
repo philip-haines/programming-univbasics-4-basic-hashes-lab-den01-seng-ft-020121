@@ -4,7 +4,7 @@ end
 
 def my_hash
   my_hash = {
-    age => 15
+    :age => 15
   }
 end
 
