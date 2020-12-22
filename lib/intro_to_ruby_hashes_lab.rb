@@ -1,10 +1,10 @@
 def new_hash
-  Hash.new()
+  new_hash = Hash.new()
 end
 
 def my_hash
-  my_hash{
-    age : 15
+  my_hash = {
+    age => 15
   }
 end
 
